@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome to my profile!
 
 My name is Griffin, and I'm a senior at MIT. This year, I took a leave of absence for the year to work as a software engineer in New York City.
 
