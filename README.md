@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Griffin, and I'm a senior at MIT. This year, I took a leave of absence for the year to work as a software engineer in New York City.
+
+I don't make my repositories public, but if you'd like to see my work, contact me!
 <!--
 **gansel51/gansel51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
