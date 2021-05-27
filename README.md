@@ -8,15 +8,7 @@ Please feel free to visit my [personal website](https://gansel51.github.io/ "Gri
 
 Some technology I like:
 
-<!-- ![React](https://img.shields.io/badge/-ReactJS-fff?&logo=React&color=2f5b44&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-fff?&logo=redux&color=2f5b44&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-fff?&logo=JavaScript&color=2f5b44&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js&color=2f5b44&logoColor=white) -->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&color=2f5b44&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&color=2f5b44&logoColor=white)
-<!-- ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&color=2f5b44&logoColor=white) -->
-<!-- ![Terraform](https://img.shields.io/badge/-Terraform-fff?&logo=terraform&color=2f5b44&logoColor=white) -->
-![Python](https://img.shields.io/badge/-Python-fff?&logo=python&color=2f5b44&logoColor=white)
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=html5&color=2f5b44&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=css3&color=2f5b44&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-fff?&logo=unity&color=2f5b44&logoColor=white) -->
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java}(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
