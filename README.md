@@ -5,10 +5,3 @@ My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics,
 I don't make my personal repositories public, but if you'd like to see my work, contact me and I can share some of my projects!
 
 Please feel free to visit my [personal website](https://gansel51.github.io/ "Griffin's Website") for links to my resume, LinkedIn, GitHub, or to email me! You can skip the middle man and connect with me on LinkedIn [here!](https://www.linkedin.com/in/griffinansel/ "Griffin's LinkedIn")
-
-Some technology I like:
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&color=2f5b44&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&color=2f5b44&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java}(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
