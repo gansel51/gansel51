@@ -1,6 +1,6 @@
 ### Hi, welcome to my profile!
 
-My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. This year, I took a leave of absence to work as a software engineer in New York City for Anheuser-Busch. Though I currently work in Python, I have previously worked with Java as well on a large scale, and know various other languages from personal projects.
+My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. This year, I took a leave of absence to work as a software engineer in New York City for Anheuser-Busch. 
 
 I don't make my personal repositories public, but if you'd like to see my work, contact me and I can share some of my projects!
 
