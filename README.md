@@ -20,4 +20,4 @@ Some languages and tools with which I work:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&color=2f5b44&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&color=2f5b44&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-fff?&logo=Julia&color=2f5b44&logoColor=white)
-
+![Databricks](https://img.shields.io/badge/-Databricks-fff?&logo=databricks&color=2f5b44&logoColor=white)
