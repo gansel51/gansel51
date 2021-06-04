@@ -6,4 +6,9 @@ I don't make my personal repositories public, but if you'd like to see my work, 
 
 Please feel free to visit my [personal website](https://gansel51.github.io/ "Griffin's Website") for links to my resume, LinkedIn, GitHub, or to email me! You can skip the middle man and connect with me on LinkedIn [here!](https://www.linkedin.com/in/griffinansel/ "Griffin's LinkedIn")
 
+Want to follow me? https://img.shields.io/github/followers/gansel51?style=social
+
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python&color=2f5b44&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-fff?&logo=React&color=2f5b44&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&color=2f5b44&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&color=2f5b44&logoColor=white)
