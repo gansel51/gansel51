@@ -16,3 +16,4 @@ Want to follow me?
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&color=2f5b44&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&color=2f5b44&logoColor=white)
  -->
+![R](https://img.shields.io/badge/-R-fff?&logo=R&color=2f5b44&logoColor=white)
