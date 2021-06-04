@@ -11,9 +11,12 @@ Want to follow me?
 
  -->
 
-<!-- ![Python](https://img.shields.io/badge/-Python-fff?&logo=python&color=2f5b44&logoColor=white)
+Languages I work in:
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python&color=2f5b44&logoColor=white)
+![Java](https://img.shields.io/badge/-java-fff?&logo=java&color=2f5b44&logoColor=white)
+![R](https://img.shields.io/badge/-R-fff?&logo=R&color=2f5b44&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-fff?&logo=React&color=2f5b44&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&color=2f5b44&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&color=2f5b44&logoColor=white)
- -->
-![R](https://img.shields.io/badge/-R-fff?&logo=R&color=2f5b44&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-fff?&logo=Julia&color=2f5b44&logoColor=white)
+
