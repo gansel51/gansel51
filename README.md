@@ -28,3 +28,10 @@ My stats:
 
 ![Griffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gansel51&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gansel51&layout=compact)
+
+<a href="https://github.com/gansel51">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gansel51&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/gansel51">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansel51&layout=compact" />
+</a>
