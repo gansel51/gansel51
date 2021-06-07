@@ -1,20 +1,15 @@
-### Hi, welcome to my profile!
-
 <p></br></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/griffinansel/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="griffinansel"/></a> 
 </p>  
+
+### Hi, welcome to my profile!
 
 My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. This year, I took a leave of absence to work as a software engineer in New York City for Anheuser-Busch. 
 
 I don't make my personal repositories public, but if you'd like to see my work, contact me and I can share some of my projects!
 
 Please feel free to visit my [personal website](https://gansel51.github.io/ "Griffin's Website") for links to my resume, LinkedIn, or to email me!
-
-Want to follow me? 
-![Follow me](https://img.shields.io/github/followers/gansel51?style=social)
-
-
 
 Some languages and tools with which I work:
 
