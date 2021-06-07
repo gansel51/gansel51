@@ -1,8 +1,3 @@
-<p></br></p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/griffinansel/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="griffinansel"/></a> 
-</p>  
-
 ### Hi, welcome to my profile!
 
 My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. This year, I took a leave of absence to work as a software engineer in New York City for Anheuser-Busch. 
@@ -23,3 +18,10 @@ Some languages and tools with which I work:
 ![Databricks](https://img.shields.io/badge/-Databricks-fff?&logo=databricks&color=2f5b44&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=heroku&color=2f5b44&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-fff?&logo=macos&color=2f5b44&logoColor=white)
+
+<p></br></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/griffinansel/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="griffinansel"/></a> 
+</p>  
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/griffin.ansel)
