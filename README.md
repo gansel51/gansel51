@@ -1,8 +1,3 @@
-<p></br></p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/griffinansel/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="griffinansel"/></a> 
-</p>  
-
 ### Hi, welcome to my profile!
 
 My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. This year, I took a leave of absence to work as a software engineer in New York City for Anheuser-Busch. 
