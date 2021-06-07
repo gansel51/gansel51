@@ -1,3 +1,6 @@
+![9](https://user-images.githubusercontent.com/59709552/121081146-50dd9a00-c7aa-11eb-9f11-749c8130ce2c.gif)
+
+
 ### Hi, welcome to my profile!
 
 My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. This year, I took a leave of absence to work as a software engineer in New York City for Anheuser-Busch. 
