@@ -23,3 +23,7 @@ Some languages and tools with which I work:
 ![Databricks](https://img.shields.io/badge/-Databricks-fff?&logo=databricks&color=2f5b44&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=heroku&color=2f5b44&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-fff?&logo=macos&color=2f5b44&logoColor=white)
+
+My stats:
+
+[![Griffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gansel51)](https://github.com/gansel51/github-readme-stats)
