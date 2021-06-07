@@ -23,5 +23,3 @@ Some languages and tools with which I work:
 <p align="center">
   <a href="https://www.linkedin.com/in/griffinansel/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="griffinansel"/></a> 
 </p>  
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/griffin.ansel)
