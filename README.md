@@ -26,5 +26,5 @@ Some languages and tools with which I work:
 
 My stats:
 
-![Griffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gansel51&count_private=true&show_icons=true&theme=dark(https://github.com/gansel51/github-readme-stats)
+![Griffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gansel51&count_private=true&show_icons=true&theme=dark)(https://github.com/gansel51/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gansel51)](https://github.com/gansel51/github-readme-stats)
