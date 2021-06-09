@@ -2,7 +2,7 @@
 
 My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. This year, I took a leave of absence to work as a software engineer in New York City for Anheuser-Busch. If you'd like to see examples of my work, please contact me, as I keep most of my projects private by default.
 
-Please feel free to visit my [personal website](https://gansel51.github.io/ "Griffin's Website") for links to my resume, LinkedIn, or to email me!
+Please feel free to visit my [website](https://gansel51.github.io/ "Griffin's Website") for links to my resume, LinkedIn, or to email me!
 
 Some languages and tools with which I work:
 
