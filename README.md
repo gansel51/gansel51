@@ -2,7 +2,7 @@
 
 My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. This year, I took a leave of absence to work as a software engineer in New York City for Anheuser-Busch. If you'd like to see examples of my work, please contact me, as I keep most of my projects private by default.
 
-Please feel free to visit my [website](https://gansel51.github.io/ "Griffin's Website") for links to my resume, LinkedIn, or to email me!
+Please feel free to visit my [website](https://gansel51.github.io/ "Griffin's Website") for links to my resume, LinkedIn, or to email me! 
 
 Some languages and tools with which I work:
 
@@ -16,3 +16,5 @@ Some languages and tools with which I work:
 ![Databricks](https://img.shields.io/badge/-Databricks-fff?&logo=databricks&color=2f5b44&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=heroku&color=2f5b44&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-fff?&logo=macos&color=2f5b44&logoColor=white)
+
+Want to support my work? [Click here to support me!](https://www.buymeacoffee.com/gansel51)
