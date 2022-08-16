@@ -1,6 +1,6 @@
 ### Hi, welcome to my profile!
 
-My name is Griffin, and I'm a senior at MIT studing Computer Science, Economics, and Data Science. After I guraduate, I will be working as a software engineer for Anheuser-Busch in New York City. If you'd like to see examples of my work, please contact me, as I keep most of my projects private by default.
+My name is Griffin, and I'm an MIT alum and software engineer for Anheuser-Busch in New York City. If you'd like to see examples of my work, please contact me, as I keep most of my projects private by default.
 
 Please feel free to visit my [website](https://griffinansel.com/ "Griffin's Website") for links to my resume, LinkedIn, or to email me! 
 
